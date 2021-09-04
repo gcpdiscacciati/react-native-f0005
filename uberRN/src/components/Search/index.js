@@ -19,7 +19,7 @@ export default class Search extends Component {
           //   console.log(data, details);
         }}
         query={{
-          key: 'AIzaSyDQz6p8PoKZBDbIp906B0DDGfIaXEhRU8E',
+          key: '{api-key}',
           language: 'pt',
         }}
         textInputProps={{
