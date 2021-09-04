@@ -22,7 +22,7 @@ import {
 
 // import { Container } from './styles';
 
-Geocoder.init('AIzaSyDQz6p8PoKZBDbIp906B0DDGfIaXEhRU8E');
+Geocoder.init('{api-key}');
 
 export default class Map extends Component {
   state = {
